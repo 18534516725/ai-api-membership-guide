@@ -98,6 +98,8 @@ NexoToken 本文所述会员属于第三种，不能把它理解成任意聊天�
 
 可以先从常用型号开始，核对一次真实扣额，再决定是否需要更大的套餐。需要多模态、极低频使用或无法预估周期消耗时，先比较相应按量方案和产品限制。这份指南把 NexoToken 的适用范围和购买条件摆在一起，便于做出与自己的任务匹配的选择。
 
+[查看 NexoToken 当前会员套餐与规则](https://www.nexotoken.net/?view=membership&acq=eL8_ivxBFSzJ64LLdAuL_YMm)。以上价格为日期快照，购买前请核对当前页面。
+
 ## 来源、更新与反馈
 
 - [公开会员方案与规则](https://www.nexotoken.net/api/memberships/public-plans)
